@@ -40,6 +40,15 @@ Como os dados estão divididos em vacinação e mortes foi realizado o
 relacionamento da tabela calendário com as citadas anteriormente
 através do atributo data.
 
+![relacionamento](https://github.com/Ledu55/Sql_Covid_Project/blob/main/Imagens/Relacionamento.png?raw=true)
+
+## 4.4 Resultado
+O resultado final do dashboard porde ser visualizado abaixo:
+
+![resultado](https://github.com/Ledu55/Sql_Covid_Project/blob/main/Imagens/Dash.png?raw=true)
+
+
+
 
     
 [dashpowerbi]: https://app.powerbi.com/view?r=eyJrIjoiNmFmNWM0YTAtMjA3OC00ZDI5LWJlNGMtMWI1Y2JhNDJhODQ1IiwidCI6IjI1ZDM2M2EyLTRjNzktNDRlNy05N2I3LWVkZjgxZGY3ZTYwOSJ9
